@@ -1,0 +1,1 @@
+Making changes for the git and github lessons of the Odin Project.
